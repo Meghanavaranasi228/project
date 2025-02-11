@@ -1,0 +1,38 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: url('background.jpg') no-repeat center center/cover;
+    color: white;
+}
+
+.cta {
+    background-color: #ff5733;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.features {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.feature {
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    margin-top: 20px;
+}
